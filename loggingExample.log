@@ -1,0 +1,18 @@
+2020-02-26 14:53:16 INFO  App:21 - Enter the pricipal Amount:
+2020-02-26 14:53:22 INFO  App:23 - 
+Enter the duration in years:
+2020-02-26 14:53:23 INFO  App:25 - 
+Enter the rate of interest:
+2020-02-26 14:53:24 INFO  App:27 - 
+Enter the no of times compounded:
+2020-02-26 14:53:25 INFO  App:34 - 
+CompoundInterest:9.046747814153969E9
+2020-02-26 14:53:25 INFO  App:35 - SimpleInterest:400.0
+2020-02-26 14:53:25 INFO  App:38 - Object has been serialized
+2020-02-26 14:58:20 INFO  App:17 - Press 1 for 'Standard Materials'
+Press 2 for 'Above Standard Materials'
+Press 3 for High Standard Materials
+2020-02-26 14:58:29 INFO  App:19 - Enter total area of your house
+2020-02-26 14:58:34 INFO  App:29 - Press y if you require automated home else press n:
+2020-02-26 14:58:36 INFO  Construction:17 - 
+Total Cost of Construction:12500INR
